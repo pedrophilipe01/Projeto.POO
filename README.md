@@ -23,26 +23,6 @@ sistema_denuncias/
 ├── sistema_denuncias.py  # Arquivo principal com toda a lógica do sistema
 └── README.md             # (Este arquivo) Documentação do projeto
 ```
-
----
-
-## 🚀 Como usar
-
-### 1. Clonar o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/sistema-denuncias.git
-cd sistema-denuncias
-```
-
-### 2. Executar o programa:
-
-```bash
-python sistema_denuncias.py
-```
-
----
-
 ## 📋 Funcionalidades
 
 ### Menu principal:
