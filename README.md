@@ -140,6 +140,6 @@ Data de Criação: 2025-06-04 10:35:22
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
-Desenvolvedor e estudante de programação.  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/seu-usuario)
+**Pedro Philipe da Costa Aguiar, Júlia Rodrigues, João Paulo Barbosa de Oliveira, João Augusto Alves Gonçalves, João gabriel spineli da Silva**  
+Desenvolvedores e estudantes de programação.  
+
