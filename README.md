@@ -1,3 +1,9 @@
+👨‍💻 Projeto desenvolvido para a disciplina de Programação orientada a objetos:
+
+##  Autores
+
+**Pedro Philipe da Costa Aguiar, Júlia Rodrigues, João Paulo Barbosa de Oliveira, João Augusto Alves Gonçalves, João gabriel spineli da Silva**  
+Desenvolvedores e estudantes de programação.  
 
 # 📢 Sistema de Denúncias Anônimas
 
@@ -118,8 +124,5 @@ Data de Criação: 2025-06-04 10:35:22
 
 ---
 
-## 👨‍💻 Autores
 
-**Pedro Philipe da Costa Aguiar, Júlia Rodrigues, João Paulo Barbosa de Oliveira, João Augusto Alves Gonçalves, João gabriel spineli da Silva**  
-Desenvolvedores e estudantes de programação.  
 
