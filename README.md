@@ -1,4 +1,4 @@
-👨‍💻 Projeto desenvolvido para a disciplina de Programação orientada a objetos:
+👨‍💻 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos:
 
 ##  Autores
 
